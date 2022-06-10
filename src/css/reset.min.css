@@ -1,0 +1,22 @@
+/* test de css */
+[hidden] {
+    display: none
+}
+abbr[title] {
+    border-bottom: 1px dotted
+}
+/* test de css */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block
+}
